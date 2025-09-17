@@ -1,26 +1,5 @@
 {
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": 5,
-   "id": "9f8603bd",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "from keras.models import Sequential\n",
-    "from keras.layers import Input,Dense\n",
-    "from keras.optimizers import Adam"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "2ae10fb0",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
+ "cells": [],
  "metadata": {
   "kernelspec": {
    "display_name": ".venv",
